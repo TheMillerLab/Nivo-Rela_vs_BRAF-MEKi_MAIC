@@ -17,15 +17,11 @@ This supplement was designed to accompany a manuscript evaluating Nivolumab + Re
 
 ## 📁 Repository Structure
 
-Nivo-Rela_vs_BRAF-MEKi_MAIC/ 
-
-├── README.md # This file 
-
-├── Supplemental_Methods.html # Rendered HTML supplement 
-
-├── Supplemental_Methods.qmd # Source Quarto file 
-
-└── files/ # Supporting CSVs, figures, and digitized inputs
+Nivo-Rela_vs_BRAF-MEKi_MAIC/  
+  ├── README.md # This file  
+  ├── Supplemental_Methods.html # Rendered HTML supplement   
+  ├── Supplemental_Methods.qmd # Source Quarto file   
+  └── files/ # Supporting CSVs, figures, and digitized inputs
 
 
 ## 🔧 How to Use
